@@ -16,10 +16,10 @@
 </li>
 </ul>
 
-Label-based representation
-	
-Modularity fitness
+	Label-based representation
 
-Crossover: The chromosome takes destination's genes and they are modified according to the source node
+	Modularity fitness
 
-Mutation: Random node
+	Crossover: The chromosome takes destination's genes and they are modified according to the source node
+
+	Mutation: Random node
