@@ -1,0 +1,5 @@
+{
+  "generations" : 500,
+  "popSize" : 1500,
+  "function" : "modularityFitness"
+}
