@@ -11,11 +11,17 @@
 <li>
       <a href="https://github.com/Laura-ElenaOlaru/AI-Projects/tree/main/Genetic%20Algorithm"> 
 			   Genetic Algorithm: Identifying communities in a population
-      </a>
-  
-      Label-based representation
-      Modularity fitness
-      Crossover: The chromosome takes destination's genes and they are modified according to the source node
-      Mutation: Random node
+	</a>
+	  
+</li>
+<li>
+Label-based representation
+	
+Modularity fitness
+
+Crossover: The chromosome takes destination's genes and they are modified according to the source node
+
+Mutation: Random node
 </li>
 </ul>
+	
