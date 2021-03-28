@@ -1,0 +1,5 @@
+{
+  "generations" : 100,
+  "popSize" : 2,
+  "function" : "fitness"
+}
