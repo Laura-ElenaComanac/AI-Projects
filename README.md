@@ -9,17 +9,16 @@
 </li>
 
 <li>
+      <a href="https://github.com/Laura-ElenaOlaru/AI-Projects/tree/main/Genetic%20Algorithm%20-%20TSP"> 
+			   Genetic Algorithm: The Travelling Salesman Problem
+	</a>
+	  
+</li>
+
+<li>
       <a href="https://github.com/Laura-ElenaOlaru/AI-Projects/tree/main/Genetic%20Algorithm"> 
 			   Genetic Algorithm: Identifying communities in a population
 	</a>
 	  
 </li>
 </ul>
-
-Label-based representation
-
-Modularity fitness
-
-Crossover: The chromosome takes destination's genes and they are modified according to the source node
-
-Mutation: Random node
