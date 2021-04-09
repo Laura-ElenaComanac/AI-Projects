@@ -21,4 +21,12 @@
 	</a>
 	  
 </li>
+
+<li>
+      <a href="https://github.com/Laura-ElenaOlaru/AI-Projects/tree/main/ACO"> 
+			   Ant Colony Optimization
+	</a>
+	  
+</li>
+
 </ul>
