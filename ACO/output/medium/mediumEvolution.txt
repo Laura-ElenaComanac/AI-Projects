@@ -1,0 +1,300 @@
+Best solution in epoch 0:
+x = [2, 0, 4, 1, 3, 5]
+f(x) = 36
+Best solution NOW in epoch 0:
+x = [2, 0, 4, 1, 3, 5]
+f(x) = 36
+Best solution in epoch 1:
+x = [1, 4, 0, 2, 3, 5]
+f(x) = 36
+Best solution NOW in epoch 0:
+x = [2, 0, 4, 1, 3, 5]
+f(x) = 36
+Best solution in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 3:
+x = [4, 5, 3, 0, 1, 2]
+f(x) = 42
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 4:
+x = [0, 3, 1, 2, 4, 5]
+f(x) = 34
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 5:
+x = [1, 2, 0, 3, 5, 4]
+f(x) = 32
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 6:
+x = [4, 5, 2, 1, 3, 0]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 7:
+x = [5, 1, 2, 0, 3, 4]
+f(x) = 33
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 8:
+x = [2, 0, 3, 4, 5, 1]
+f(x) = 33
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 9:
+x = [1, 2, 0, 3, 5, 4]
+f(x) = 32
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 10:
+x = [5, 4, 0, 3, 2, 1]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 11:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 12:
+x = [2, 1, 5, 4, 0, 3]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 13:
+x = [2, 1, 5, 4, 0, 3]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 14:
+x = [4, 5, 2, 1, 3, 0]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 15:
+x = [0, 4, 5, 2, 1, 3]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 16:
+x = [5, 4, 0, 3, 2, 1]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 17:
+x = [3, 0, 4, 5, 2, 1]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 18:
+x = [5, 4, 0, 3, 2, 1]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 19:
+x = [2, 1, 5, 4, 0, 3]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 20:
+x = [1, 3, 2, 0, 4, 5]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 21:
+x = [1, 3, 2, 0, 4, 5]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 22:
+x = [1, 3, 2, 0, 4, 5]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 23:
+x = [4, 0, 3, 2, 1, 5]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 24:
+x = [2, 0, 4, 5, 1, 3]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 25:
+x = [4, 0, 3, 1, 5, 2]
+f(x) = 37
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 26:
+x = [2, 1, 3, 0, 4, 5]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 27:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 28:
+x = [3, 2, 1, 5, 4, 0]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 29:
+x = [1, 5, 4, 0, 3, 2]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 30:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 31:
+x = [2, 1, 5, 4, 0, 3]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 32:
+x = [3, 0, 4, 5, 2, 1]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 33:
+x = [3, 0, 4, 5, 2, 1]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 34:
+x = [1, 3, 0, 4, 5, 2]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 35:
+x = [3, 0, 4, 5, 2, 1]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 36:
+x = [4, 5, 2, 1, 3, 0]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 37:
+x = [2, 1, 3, 0, 4, 5]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 38:
+x = [1, 3, 0, 4, 5, 2]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 39:
+x = [5, 2, 1, 3, 0, 4]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 40:
+x = [0, 4, 5, 2, 1, 3]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 41:
+x = [3, 1, 5, 4, 0, 2]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 42:
+x = [3, 1, 5, 4, 0, 2]
+f(x) = 28
+Best solution NOW in epoch 2:
+x = [0, 3, 2, 1, 5, 4]
+f(x) = 28
+Best solution in epoch 43:
+x = [5, 4, 0, 2, 1, 3]
+f(x) = 27
+Best solution NOW in epoch 43:
+x = [5, 4, 0, 2, 1, 3]
+f(x) = 27
+Best solution in epoch 44:
+x = [2, 1, 3, 0, 4, 5]
+f(x) = 28
+Best solution NOW in epoch 43:
+x = [5, 4, 0, 2, 1, 3]
+f(x) = 27
+Best solution in epoch 45:
+x = [0, 2, 1, 3, 5, 4]
+f(x) = 27
+Best solution NOW in epoch 43:
+x = [5, 4, 0, 2, 1, 3]
+f(x) = 27
+Best solution in epoch 46:
+x = [0, 2, 1, 3, 5, 4]
+f(x) = 27
+Best solution NOW in epoch 43:
+x = [5, 4, 0, 2, 1, 3]
+f(x) = 27
+Best solution in epoch 47:
+x = [0, 2, 1, 3, 5, 4]
+f(x) = 27
+Best solution NOW in epoch 43:
+x = [5, 4, 0, 2, 1, 3]
+f(x) = 27
+Best solution in epoch 48:
+x = [0, 2, 1, 3, 5, 4]
+f(x) = 27
+Best solution NOW in epoch 43:
+x = [5, 4, 0, 2, 1, 3]
+f(x) = 27
+Best solution in epoch 49:
+x = [4, 0, 2, 1, 3, 5]
+f(x) = 27
+Best solution NOW in epoch 43:
+x = [5, 4, 0, 2, 1, 3]
+f(x) = 27

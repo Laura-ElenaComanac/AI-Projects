@@ -1,0 +1,300 @@
+Best solution in epoch 0:
+x = [5, 7, 3, 0, 2, 4, 6, 1]
+f(x) = 38
+Best solution NOW in epoch 0:
+x = [5, 7, 3, 0, 2, 4, 6, 1]
+f(x) = 38
+Best solution in epoch 1:
+x = [0, 4, 7, 5, 2, 1, 6, 3]
+f(x) = 34
+Best solution NOW in epoch 1:
+x = [0, 4, 7, 5, 2, 1, 6, 3]
+f(x) = 34
+Best solution in epoch 2:
+x = [5, 4, 1, 2, 7, 6, 0, 3]
+f(x) = 40
+Best solution NOW in epoch 1:
+x = [0, 4, 7, 5, 2, 1, 6, 3]
+f(x) = 34
+Best solution in epoch 3:
+x = [1, 7, 4, 5, 0, 6, 2, 3]
+f(x) = 35
+Best solution NOW in epoch 1:
+x = [0, 4, 7, 5, 2, 1, 6, 3]
+f(x) = 34
+Best solution in epoch 4:
+x = [0, 1, 4, 7, 3, 5, 6, 2]
+f(x) = 46
+Best solution NOW in epoch 1:
+x = [0, 4, 7, 5, 2, 1, 6, 3]
+f(x) = 34
+Best solution in epoch 5:
+x = [5, 6, 4, 7, 2, 3, 0, 1]
+f(x) = 46
+Best solution NOW in epoch 1:
+x = [0, 4, 7, 5, 2, 1, 6, 3]
+f(x) = 34
+Best solution in epoch 6:
+x = [3, 4, 7, 2, 6, 0, 5, 1]
+f(x) = 42
+Best solution NOW in epoch 1:
+x = [0, 4, 7, 5, 2, 1, 6, 3]
+f(x) = 34
+Best solution in epoch 7:
+x = [5, 1, 7, 3, 0, 6, 2, 4]
+f(x) = 36
+Best solution NOW in epoch 1:
+x = [0, 4, 7, 5, 2, 1, 6, 3]
+f(x) = 34
+Best solution in epoch 8:
+x = [1, 7, 3, 0, 4, 5, 6, 2]
+f(x) = 30
+Best solution NOW in epoch 8:
+x = [1, 7, 3, 0, 4, 5, 6, 2]
+f(x) = 30
+Best solution in epoch 9:
+x = [5, 6, 0, 4, 7, 3, 2, 1]
+f(x) = 32
+Best solution NOW in epoch 8:
+x = [1, 7, 3, 0, 4, 5, 6, 2]
+f(x) = 30
+Best solution in epoch 10:
+x = [7, 3, 0, 4, 5, 6, 2, 1]
+f(x) = 30
+Best solution NOW in epoch 8:
+x = [1, 7, 3, 0, 4, 5, 6, 2]
+f(x) = 30
+Best solution in epoch 11:
+x = [4, 5, 6, 2, 1, 7, 3, 0]
+f(x) = 30
+Best solution NOW in epoch 8:
+x = [1, 7, 3, 0, 4, 5, 6, 2]
+f(x) = 30
+Best solution in epoch 12:
+x = [6, 2, 1, 7, 3, 0, 4, 5]
+f(x) = 30
+Best solution NOW in epoch 8:
+x = [1, 7, 3, 0, 4, 5, 6, 2]
+f(x) = 30
+Best solution in epoch 13:
+x = [3, 0, 6, 2, 1, 7, 4, 5]
+f(x) = 33
+Best solution NOW in epoch 8:
+x = [1, 7, 3, 0, 4, 5, 6, 2]
+f(x) = 30
+Best solution in epoch 14:
+x = [7, 3, 0, 6, 1, 2, 4, 5]
+f(x) = 33
+Best solution NOW in epoch 8:
+x = [1, 7, 3, 0, 4, 5, 6, 2]
+f(x) = 30
+Best solution in epoch 15:
+x = [2, 0, 6, 1, 7, 3, 5, 4]
+f(x) = 35
+Best solution NOW in epoch 8:
+x = [1, 7, 3, 0, 4, 5, 6, 2]
+f(x) = 30
+Best solution in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 17:
+x = [1, 2, 0, 4, 7, 3, 6, 5]
+f(x) = 31
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 18:
+x = [0, 2, 1, 7, 3, 6, 5, 4]
+f(x) = 29
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 19:
+x = [1, 7, 3, 6, 0, 2, 4, 5]
+f(x) = 35
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 20:
+x = [5, 4, 7, 3, 6, 0, 2, 1]
+f(x) = 28
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 21:
+x = [1, 7, 3, 6, 0, 2, 4, 5]
+f(x) = 35
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 22:
+x = [5, 4, 7, 3, 1, 6, 0, 2]
+f(x) = 29
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 23:
+x = [5, 4, 7, 3, 1, 6, 0, 2]
+f(x) = 29
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 24:
+x = [0, 2, 1, 6, 5, 4, 7, 3]
+f(x) = 28
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 25:
+x = [5, 4, 7, 3, 1, 6, 0, 2]
+f(x) = 29
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 26:
+x = [5, 4, 7, 3, 0, 2, 1, 6]
+f(x) = 28
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 27:
+x = [4, 7, 3, 0, 2, 1, 6, 5]
+f(x) = 28
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 28:
+x = [5, 4, 7, 3, 0, 2, 1, 6]
+f(x) = 28
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 29:
+x = [2, 1, 6, 0, 4, 7, 3, 5]
+f(x) = 32
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 30:
+x = [0, 2, 1, 6, 5, 4, 7, 3]
+f(x) = 28
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 31:
+x = [6, 1, 2, 0, 4, 7, 3, 5]
+f(x) = 31
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 32:
+x = [1, 2, 0, 4, 7, 3, 5, 6]
+f(x) = 31
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 33:
+x = [5, 1, 2, 0, 4, 7, 3, 6]
+f(x) = 31
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 34:
+x = [0, 2, 1, 7, 3, 6, 5, 4]
+f(x) = 29
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 35:
+x = [6, 0, 2, 1, 7, 3, 5, 4]
+f(x) = 31
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 36:
+x = [2, 0, 4, 7, 3, 6, 1, 5]
+f(x) = 32
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 37:
+x = [4, 7, 3, 6, 5, 1, 2, 0]
+f(x) = 31
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 38:
+x = [1, 2, 0, 6, 5, 4, 7, 3]
+f(x) = 28
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 39:
+x = [3, 0, 6, 1, 2, 5, 4, 7]
+f(x) = 29
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 40:
+x = [6, 1, 2, 0, 4, 7, 3, 5]
+f(x) = 31
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 41:
+x = [1, 5, 4, 7, 3, 0, 2, 6]
+f(x) = 29
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 42:
+x = [6, 1, 2, 0, 4, 7, 3, 5]
+f(x) = 31
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 43:
+x = [6, 1, 2, 0, 4, 7, 3, 5]
+f(x) = 31
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 44:
+x = [5, 1, 2, 0, 4, 7, 3, 6]
+f(x) = 31
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 45:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 46:
+x = [2, 0, 6, 1, 5, 4, 7, 3]
+f(x) = 29
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 47:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 48:
+x = [3, 5, 4, 7, 1, 2, 0, 6]
+f(x) = 32
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27
+Best solution in epoch 49:
+x = [6, 1, 7, 3, 5, 4, 2, 0]
+f(x) = 35
+Best solution NOW in epoch 16:
+x = [7, 3, 6, 1, 2, 0, 4, 5]
+f(x) = 27

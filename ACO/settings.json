@@ -1,0 +1,14 @@
+{
+  "epochs" : 300,
+  "noAnts" : 1,
+  "alpha": 1.9,
+  "beta" : 0.9,
+  "decay" : 0.1,
+  "q0" : 0.5,
+  "Q" : 1.0,
+  "function" : "fitness",
+  "dynamic" : true,
+  "changeProb" : 0.01,
+  "minCost" : 1,
+  "maxCost" :100
+}
